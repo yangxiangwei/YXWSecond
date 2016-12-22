@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # The CocoaPods Master Repo
 
 This repository contains the public [CocoaPods](https://github.com/CocoaPods/CocoaPods) specifications.
@@ -19,3 +20,6 @@ These specifications and CocoaPods are available under the [MIT license](http://
 the first cocoapods
 测试
 >>>>>>> origin/master
+=======
+# YXWSecond
+>>>>>>> origin
